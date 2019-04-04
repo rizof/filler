@@ -2,8 +2,11 @@
 
 Dans ce projet, nous recevons via une file descriptor plusieurs pièces de Tetris. 
 Nous devrons placer toutes ces pièces dans le plus petit carré possible.
-De telle sorte que :
+utilisation: 
+make
+./fillit maps/[nom de la map]
 
+exemple :
 ![Screenshot](exemple1.png)
 
 ![Screenshot](exemple2.png)
